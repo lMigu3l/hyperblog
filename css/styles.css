@@ -9,7 +9,7 @@ body{
 
 .container{
     width: 60%;
-    height: 99vh;
+    height: 80vh;
     background: white;
     text-align: left;
     border: 1px solid #ddd;
@@ -69,5 +69,13 @@ body{
 .post p{
     font-size: 20px;
     font-weight: 400;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #63656F;
+    color: white;
 }
 
